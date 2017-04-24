@@ -11,3 +11,10 @@ h1{
 	font-size: 50px;
 	color: blue;
 }
+body { 
+  background: url(.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
