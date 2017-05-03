@@ -2,6 +2,10 @@ h1{
 	font-size: 200px;
 	color: gray;
 	font-family: 'Luckiest Guy', cursive;
+	animation-name: swageffect;
+	animation-duration: 1s;
+  	animation-iteration-count: infinite;
+
 }
 #first{
 	font-size: 48px;
@@ -19,4 +23,11 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+@keyframes swageffect{
+    0%  {color:red;}
+   25%  {color:yellow;}
+   50%  {color:blue;}
+   75%  {color:green;}
+   100% {color:red;}
 }
