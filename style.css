@@ -31,7 +31,7 @@ body {
 @keyframes swageffect{
     0%  {color:Purple;}
    25%  {color:blue;}
-   50%  {color:green;}
-   75%  {color:yellow;}
+   50%  {color:white;}
+   75%  {color:black;}
    100% {color:gray;}
 }
