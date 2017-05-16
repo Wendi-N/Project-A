@@ -20,7 +20,11 @@ h1{
 #List{
 	font-size: 50px;
 	color: white;
-}		
+}
+#index{
+	font-size: 50px;
+	color: Blue;
+}
 body { 
   background: url(Court.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
